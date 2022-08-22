@@ -1,0 +1,22 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hawkusha/Bot.git"
+  },
+  "author": "Hawk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hawkusha/Bot/issues"
+  },
+  "homepage": "https://github.com/Hawkusha/Bot#readme",
+  "dependencies": {
+    "node-vk-bot-api": "^3.5.0"
+  }
+}
